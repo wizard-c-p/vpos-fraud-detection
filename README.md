@@ -24,3 +24,12 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    git clone [https://github.com/wizard-c-p/vpos-fraud-detection.git](https://github.com/wizard-c-p/vpos-fraud-detection.git)
    cd vpos-fraud-detection
+## 🚀 Version 2.0 Update (Current)
+- **Dynamic Rule Engine:** Configurable thresholds for Chargeback, Refund, and Non-3DS ratios via UI.
+- **Peer Group Benchmarking:** Risk scoring based on MCC-specific industry averages.
+- **Forensic Analysis:** Drill-down capabilities for IP and Device ID concentration.
+
+## 🛠️ Tech Stack
+- Python 3.8+
+- Streamlit (Web Framework)
+- Pandas & NumPy (Data Analysis)
